@@ -9,7 +9,7 @@ public class Application {
         System.out.println(result);
     }
 
-    public void add() {
+    public void add1() {
 
     }
 }
