@@ -5,6 +5,7 @@ public class Application {
         int b = 2;
 
         int result = a + b;
+        result += 1;
         System.out.println(result);
     }
 }
