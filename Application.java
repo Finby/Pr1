@@ -8,4 +8,8 @@ public class Application {
         result += 1;
         System.out.println(result);
     }
+
+    public void add() {
+
+    }
 }
